@@ -1,40 +1,43 @@
 body {
-    background-color: #fbfee5;
+    background-color: #f4f6fb;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     font-size: 50px;
-    color: #c91842;
+    color: #1e3a8a; 
 }
 
 .texto-section {
     font-size: 25px;
-    color: #98173d;
+    color: #334155; 
 }
 
 #texto-id {
     font-size: 25px;
-    color: #98173d;
+    color: #334155;
 }
 
 .card {
     width: 350px;
     height: 250px;                
     padding: 15px;                
-    border: 1px solid black;       
+    border: 1px solid #cbd5e1;       
     margin: 20px;            
     box-sizing: border-box;       
-    background-color: #a8e7ca;
+    background-color: #ffffff;
     border-radius: 8px;
 }
 
 section {
     font-size: 30px;
+    color: #0f172a; 
 }
 
 footer {
-    border: 1px solid black;
+    border: 1px solid #cbd5e1;
     margin-top: 50px;
     text-align: center;
+    background-color: #1e293b; 
+    color: #f1f5f9; 
 }
